@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-tailwindcss-docs",
+  "version": "1.0.0",
+  "description": "TailwindCSS module for Nuxt: the docs.",
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "generate": "nuxi generate",
+    "preview": "nuxi preview"
+  },
+  "author": "Sebastien Chopin",
+  "license": "MIT",
+  "homepage": "https://tailwindcss.nuxtjs.org",
+  "devDependencies": {
+    "@nuxt-themes/docus": "^1.15.0",
+    "@nuxtjs/plausible": "^0.2.3",
+    "nuxt": "^3.8.0"
+  }
+}
